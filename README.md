@@ -7,6 +7,8 @@ Once the script is created, you should add it to crontab so that it can run ever
 
 Script assumes you have a .my.cnf in your home directory 
 
+```
 [client]
 user='root'
 password='your_root_password_here'
+```
