@@ -7,7 +7,7 @@ Once the script is created, you should add it to crontab so that it can run ever
 
 Creates a folder you specify for backups.
 
-Script assumes you have a .my.cnf in your home directory 
+Script assumes you have a .my.cnf in your home directory. Sample included in repo.
 
 ```
 [client]
