@@ -5,6 +5,8 @@ If you are running a MySQL server and want to make regular backups, the script b
 
 Once the script is created, you should add it to crontab so that it can run every night.
 
+Creates a folder you specify for backups.
+
 Script assumes you have a .my.cnf in your home directory 
 
 ```
