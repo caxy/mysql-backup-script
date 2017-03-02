@@ -1,4 +1,4 @@
-# mysql-backup-sciprt
+# mysql-backup-script
 A shell script to backup MySQL databases
 
 If you are running a MySQL server and want to make regular backups, the script below will keep the last 7 days' worth of backups in a directory. We're using the "--drop-table" option so that each table is recreated when you import it back in.
